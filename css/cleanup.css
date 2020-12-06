@@ -16,7 +16,7 @@ div#wall #tag-3.slick.wicked {
   display: none;
 }
 
-div[id="tag-5"] {
+div[class="slick"] {
   display: none;
 }
 
